@@ -1,4 +1,4 @@
-# Prodigy Task 03 - Tic Tac Toe Web Application
+# Prodigy Task 02 - Stopwatch Web Application
 
 A simple and user-friendly web-based stopwatch application built to track time accurately. This application allows users to start, stop, and reset the timer seamlessly. Designed with an intuitive interface, it's perfect for tasks like workouts, cooking, or productivity tracking.
 
@@ -14,4 +14,4 @@ A simple and user-friendly web-based stopwatch application built to track time a
 2. CSS  
 3. JavaScript  
 
-[See Demo](http://127.0.0.1:5500/index.html)
+[See Demo](http://127.0.0.1:5501/index.html)
